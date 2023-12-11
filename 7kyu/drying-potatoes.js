@@ -22,6 +22,8 @@
 
 // Example:
 // potatoes(99, 100, 98) --> 50
+//
+// My solution
 
 function potatoes(p0, w0, p1) {
   p0 = p0 / 100;

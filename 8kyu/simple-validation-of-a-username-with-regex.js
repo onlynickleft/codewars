@@ -5,6 +5,8 @@
 // numbers,
 // underscore
 // Length should be between 4 and 16 characters (both included).
+//
+// My solution
 
 function validateUsr(username)
 {
